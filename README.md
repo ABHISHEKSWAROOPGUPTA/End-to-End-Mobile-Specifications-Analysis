@@ -49,5 +49,9 @@ Delivered a mobile market data analysis dashboard that provides valuable insight
 #####	Identifies the common selfie camera specifications in the market.
 
 ### Kindly click on this link to check out the dashboard :
+https://github.com/ABHISHEKSWAROOPGUPTA/End-to-End-data-analysis-using-sql-and-power-bi/blob/eb71bb9793228e030aaeb06a5a28a6353cdeab95/mobile%20analysis.pbix
+### Also you can see the SQL Queries by this link:
+https://github.com/ABHISHEKSWAROOPGUPTA/End-to-End-data-analysis-using-sql-and-power-bi/blob/eb71bb9793228e030aaeb06a5a28a6353cdeab95/mobiel_sql_queries.sql
+### Dashboard Image:
+![image](https://github.com/user-attachments/assets/702cec2e-6adb-4d1b-8331-46ef22dff921)
 
-### Dashboard Image

@@ -1,4 +1,4 @@
-# End-to-End-Data-Mobile-Specification-Analysis-Using-Sql-and-Power-Bi
+# End-to-End-Data-Mobile-Specifications-Analysis-Using-Sql-and-Power-Bi
 
 Welcome to the Mobile Data Analysis project repository! This project utilizes SQL for data processing and Power BI for visualization to analyze the mobile market trends for the year 2023. The project aims to provide insights into brand popularity, storage preferences, operating system distribution, 5G availability, battery capacity, and selfie camera specifications.
 
